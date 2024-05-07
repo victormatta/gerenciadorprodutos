@@ -1,0 +1,15 @@
+.centered-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.custom-card {
+    width: 600px; /* Define a largura desejada para o card */
+    height: 300px;
+}
+
+.btn-right {
+    float: right; /* Alinha o botão à direita */
+}
